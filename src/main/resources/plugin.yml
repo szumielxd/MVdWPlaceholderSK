@@ -1,0 +1,6 @@
+name: ${name}
+version: ${version}
+author: ${author}
+main: ${mainClass}
+depend: [Skript, MVdWPlaceholderAPI]
+api-version: 1.13
